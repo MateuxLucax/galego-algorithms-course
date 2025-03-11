@@ -5,3 +5,5 @@ This repo compiles my notes and code snippets from the algorithms course that I 
 ## Summary
 
 1. [Big O Notation](books/big-o.ipynb)
+2. [Arrays](books/arrays.ipynb)
+3. [Linked Lists](books/linked-lists.ipynb)
